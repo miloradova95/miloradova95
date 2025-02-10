@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Studio, C# and Unity**
 
-- 👨‍💻 I have worked for the Natural History Museum Vienna at the [bitem project](https://bitem.at/)
+- 👨‍💻 I worked on the [BITEM project](https://bitem.at/) at the Natural History Museum Vienna.
 
 - 📫 How to reach me **aleksandarmiloradovic95@gmail.com**
 
