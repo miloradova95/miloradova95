@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandar Miloradović</h1>
-<h3 align="center">A passionate student developer from Austria</h3>
+<h3 align="center">A student developer from Austria</h3>
 
 - 🔭 I’m currently studying **Creative Computing at UAS St. Pölten**
 
