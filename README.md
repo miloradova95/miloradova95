@@ -7,7 +7,7 @@
 
 - 👨‍💻 I worked on the [BITEM project](https://bitem.at/) at the Natural History Museum Vienna.
 
-- 📫 How to reach me **aleksandarmiloradovic95@gmail.com**
+- 📫 How to reach me **a.miloradovic@outlook.de** & **aleksandarmiloradovic95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
