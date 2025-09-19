@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently studying **Creative Computing at UAS St. Pölten**
 
-- 🌱 I’m currently learning **Android Studio, C# and Unity**
+- 🌱 I’m currently learning **Convolutional Neural Networks, C# and Unity**
 
 - 👨‍💻 I worked on the [BITEM project](https://bitem.at/) at the Natural History Museum Vienna.
 
-- 📫 How to reach me **a.miloradovic@outlook.de** & **aleksandarmiloradovic95@gmail.com**
+- 📫 How to reach me **a.miloradovic@outlook.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
