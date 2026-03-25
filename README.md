@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandar Miloradović</h1>
 <h3 align="center">A student developer from Austria</h3>
 
-- 🔭 I’m currently studying **Creative Computing at UAS St. Pölten**
-
-- 🌱 I’m currently learning **Convolutional Neural Networks, C# and Unity**
-
-- 👨‍💻 I worked on the [BITEM project](https://bitem.at/) at the Natural History Museum Vienna.
+- 🔭 I’m  studying **Creative Computing at UAS St. Pölten**
 
 - 📫 How to reach me **a.miloradovic@outlook.de**
 
